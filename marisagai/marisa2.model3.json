@@ -1,0 +1,10 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "marisa.moc3",
+    "Textures": [
+      "marisa.2048/texture_00.png",
+      "marisa.2048/untitled.png"
+    ]
+  }
+}
